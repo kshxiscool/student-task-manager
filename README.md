@@ -229,11 +229,11 @@ GitHub Pages works for static HTML files. Since this project uses PHP, host the 
 
 ## 👨‍💻 Author
 
-**Student Name**: [Your Name]  
-**Roll Number**: [Your Roll Number]  
+**Student Name**: [KSHITIJ SHARMA]  
+**Roll Number**: [24BTRCN018]  
 **Course**: Web Technologies — 23CSE404  
 **Instructor**: Mir Junaid Rasool  
-**Institution**: [Your College Name]
+**Institution**: [ JAIN UNIVERSITY]
 
 ---
 
